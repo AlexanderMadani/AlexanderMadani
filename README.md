@@ -29,7 +29,7 @@ Hello friends,
   We are always looking for more awesome friends like you to join our efforts to help share and grow our amazing product, services and community. 
   Your awesome and very kind support and contributions are truly appreciated and help keep the project going and make more awesome things happen for everyone. Thank you!
   
-  To contact the Founder and CEO of EZ Notes (Alexander Madani), you may reach him at:   amadani@pristineusa.com
+  To contact the Founder and CEO of EZ Notes (Alexander Madani), you may reach me at:   amadani@pristineusa.com
   
   
   
