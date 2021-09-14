@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 Hello friends, 
 
   I am the founder and developer behind EZ Notes for Android.  I have always been and continue to be interested in technologies that make life EZ for vast numbers of
-  people around the world.  In May of 2014, after carful planning and research about how I wanted to try and create such an amazing breakthrough in the space of Organizing, 
-  I began working on my App EZ Notes.  Soon other wonderful developers contributed and helped take my promising disruptive  "Ultimate Mobility" concepts to higher and higher
+  people around the world.  In May of 2014, after careful planning and research, I wanted to try and create an amazing breakthrough in the area of Hand-Free Ultimate Mobility!
+  That's how I began working on EZ Notes.  Soon other wonderful developers contributed and helped take my promising disruptive  "Ultimate Mobility" concepts to higher and higher
   levels.  I am forever grateful to the many wonderful and talented developers and my fans and supporters for their support and contributions to help fund this ongoing long-term
   promising product which is growing quickly.
   
